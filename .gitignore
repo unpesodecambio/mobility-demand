@@ -1,0 +1,5 @@
+%pip install mapclassify folium matplotlibpoi_compiled/compiled.cpg
+%pip install mapclassify folium matplotlibpoi_compiled/compiled.dbf
+%pip install mapclassify folium matplotlibpoi_compiled/compiled.prj
+%pip install mapclassify folium matplotlibpoi_compiled/compiled.shp
+%pip install mapclassify folium matplotlibpoi_compiled/compiled.shx
